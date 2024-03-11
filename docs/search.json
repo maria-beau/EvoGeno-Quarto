@@ -4,13 +4,34 @@
     "href": "index.html",
     "title": "quarto5",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This is meee (colorized, circa 2022)\n\n\nAbout me from my handshake profile:\nHello! I’m Maria, I’m a senior Microbiology major and I’m currently looking for full time job opportunities for the summer of 2024. Eager to leverage my microbial knowledge and research experience in a full-time biology lab position. Actively seeking opportunities to contribute to innovative projects and make meaningful contributions to advancements in biological sciences."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "This is where new projects will go soooon promise"
+  },
+  {
+    "objectID": "presentation.html",
+    "href": "presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "This tab is for presentation(s)"
+  },
+  {
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "Labs",
+    "section": "",
+    "text": "This is where my lab stuff will go apparently so stay tuned everyone!"
   }
 ]

@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+![This is meee (colorized, circa 2022)](images/IMG_6500.jpeg){fig-align="center" width="242"}
 
-```{r}
-1 + 1
-```
+About me from my handshake profile:
+
+Hello! I’m Maria, I’m a senior Microbiology major and I'm currently looking for full time job opportunities for the summer of 2024. Eager to leverage my microbial knowledge and research experience in a full-time biology lab position. Actively seeking opportunities to contribute to innovative projects and make meaningful contributions to advancements in biological sciences.
